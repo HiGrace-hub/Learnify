@@ -1,7 +1,7 @@
-# Learning – AI-Powered Study Assistant
+Learnify – AI-Powered Study Assistant
 
 ## 📌 Overview
-**Learning** is a mobile-first web application designed to make studying more effective and stress-free.  
+Learnify is a mobile-first web application designed to make studying more effective and stress-free.  
 Instead of spending hours creating study materials, students can automatically generate flashcards, practice them using spaced repetition, and track their progress — all in one place.
 
 This project currently simulates AI-powered flashcard generation, but in production it can be integrated with the **OpenAI API** for real-time summarization and quiz creation.
